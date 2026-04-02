@@ -10,3 +10,23 @@ toc:
     path: /xla/pjrt/pjrt_integration
   - title: PJRT Examples
     path: /xla/pjrt/examples
+- title: Architecture & Internals
+  section:
+  - title: Architecture Deep Dive
+    path: /xla/pjrt/architecture
+  - title: C API Quick Reference
+    path: /xla/pjrt/c_api_reference
+  - title: Compilation Pipeline
+    path: /xla/pjrt/compilation_pipeline
+  - title: Execution Pipeline
+    path: /xla/pjrt/execution_pipeline
+  - title: Buffer Management
+    path: /xla/pjrt/buffer_management
+- title: Backend Details
+  section:
+  - title: GPU Backend (CUDA/ROCm)
+    path: /xla/pjrt/backend_gpu
+  - title: CPU Backend
+    path: /xla/pjrt/backend_cpu
+  - title: TPU Backend
+    path: /xla/pjrt/backend_tpu
